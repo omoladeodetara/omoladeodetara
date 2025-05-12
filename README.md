@@ -44,10 +44,10 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - Ch.DMP, PDG.SMDM, ACISMDM
 
 ## 🌟 Featured Projects
-- **[Founders and Innovators (FANDI)](https://www.omoladeodetara.me/projects/fandi)** (Jan 2021 - Nov 2022): A venture studio launching startups across multiple sectors.
-- **[Bossbus](https://www.omoladeodetara.me/projects/bossbus)** (Jan 2021 - Nov 2022): Integrated fleet management and travel booking platform.
+- **[Founders and Innovators (FANDI)](https://www.omoladeodetara.me/projects/founders-and-innovators)** (Jan 2021 - Nov 2022): A venture studio launching startups across multiple sectors.
+- **[Bossbus](https://www.omoladeodetara.me/projects/bossbusworld)** (Jan 2021 - Nov 2022): Integrated fleet management and travel booking platform.
 - **[ASH B](https://www.omoladeodetara.me/projects/ash-b)** (Jun 2021 - Aug 2022): Comprehensive healthcare platform with integrated telemedicine and patient management.
-- **[AfricaNFT Art](https://www.omoladeodetara.me/projects/africanft-art)** (Jul 2021 - Dec 2021): A platform showcasing and selling digital art from African artists as NFTs.
+- **[AfricaNFT Art](https://www.omoladeodetara.me/projects/africanftart)** (Jul 2021 - Dec 2021): A platform showcasing and selling digital art from African artists as NFTs.
 
 ## 📺 Media & Professional Highlights
 - **[The Recommended Framework and Key Elements for Peaceful and Sustainable Lunar Activities](https://youtu.be/lVa453ivuCE?t=989)**: Presented at the Global Expert Group on Sustainable Lunar Activities (GEGSLA).
