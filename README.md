@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - 🛫 Currently working at **Groupe SII** (2024-Present): Focused on AI-driven dynamic pricing for airlines.
 
 ## 📄 Download My CV
-- [Click here to download my CV](./omoladeodetara-cv.pdf)
+- [Click here to view my CV](https://docs.google.com/document/d/e/2PACX-1vSzYL7Olnit5qhcCLILtxFd5tVdmGt4aQSd3rZ8gxd5RO5IwU_gDytyEF31jDf0wYp3INJixuzSk2Jy/pub)
 
 ## 🛠️ Skills
 - **Core Skills**: Product Delivery, B2B, Stakeholder Management, Product Strategy, Developer Experience, Platform Strategy
