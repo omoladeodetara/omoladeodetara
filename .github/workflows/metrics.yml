@@ -2,8 +2,13 @@ name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily (adjust as needed)
+    - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+  packages: read
 
 jobs:
   build:
@@ -11,6 +16,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Setup dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y docker.io jq
 
       - name: Generate metrics
         uses: lowlighter/metrics@latest
