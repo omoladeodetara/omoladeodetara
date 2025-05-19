@@ -62,8 +62,3 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - [Email](mailto:omoladeodetara@gmail.com)
 
 ![Metrics](./metrics.svg)
-
-
-![Metrics](https://raw.githubusercontent.com/omoladeodetara/omoladeodetara/main/metrics.svg)
-
-
