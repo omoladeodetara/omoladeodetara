@@ -20,7 +20,7 @@ jobs:
       - name: Setup dependencies
         run: |
           sudo apt-get update
-          sudo apt-get install -y docker.io jq
+          sudo apt-get install -y jq
 
       - name: Generate metrics
         uses: lowlighter/metrics@latest
