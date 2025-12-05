@@ -1,3 +1,5 @@
+![Metrics](./metrics.svg)
+
 # Hi there, I'm Omolade Jordan Odetara 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer, product manager, and advocate for space exploration and technology. I love exploring new technologies, sharing knowledge, and contributing to global initiatives.
@@ -61,4 +63,3 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - [Hashnode Blog](https://omoladeodetara.hashnode.dev/)
 - [Email](mailto:omoladeodetara@gmail.com)
 
-![Metrics](./metrics.svg)
