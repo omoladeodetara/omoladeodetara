@@ -1,5 +1,7 @@
 ![Metrics](./metrics.svg)
 
+![Profile Views](https://komarev.com/ghpvc/?username=omoladeodetara&color=blueviolet&style=flat-square&label=Profile+Views)
+
 # Hi there, I'm Omolade Jordan Odetara 👋
 
 Welcome to my GitHub profile! I'm a passionate software developer, product manager, and advocate for space exploration and technology. I love exploring new technologies, sharing knowledge, and contributing to global initiatives.
@@ -62,4 +64,5 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - [LinkedIn](https://www.linkedin.com/in/omoladeodetara)
 - [Hashnode Blog](https://omoladeodetara.hashnode.dev/)
 - [Email](mailto:omoladeodetara@gmail.com)
+- [GitHub Insights](https://metrics.lecoq.io/insights/omoladeodetara)
 
