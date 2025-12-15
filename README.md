@@ -1,6 +1,10 @@
-![Metrics](./metrics.svg)
-
+<div align="center">
+  
 # Hi there, I'm Omolade Jordan Odetara 👋
+
+![Profile Views](https://komarev.com/ghpvc/?username=omoladeodetara&color=blueviolet&style=flat-square&label=Profile+Views)
+
+</div>
 
 Welcome to my GitHub profile! I'm a passionate software developer, product manager, and advocate for space exploration and technology. I love exploring new technologies, sharing knowledge, and contributing to global initiatives.
 
@@ -63,3 +67,86 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - [Hashnode Blog](https://omoladeodetara.hashnode.dev/)
 - [Email](mailto:omoladeodetara@gmail.com)
 
+---
+
+<div align="center">
+
+## 📊 GitHub Statistics
+
+</div>
+
+<div align="center">
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omoladeodetara&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=omoladeodetara&theme=radical&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=omoladeodetara&theme=radical&hide_border=true&layout=compact&langs_count=8)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 Contribution Graph
+
+</div>
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=omoladeodetara&theme=radical&hide_border=true&area=true)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 GitHub Trophies
+
+</div>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=omoladeodetara&theme=radical&no-frame=true&no-bg=true&row=1&column=7)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📑 Profile Summary
+
+</div>
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omoladeodetara&theme=radical)
+
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omoladeodetara&theme=radical)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=omoladeodetara&theme=radical)
+
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omoladeodetara&theme=radical)
+![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=omoladeodetara&theme=radical&utcOffset=1)
+
+</div>
+
+---
+
+<div align="center">
+
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/omoladeodetara/omoladeodetara/output/github-contribution-grid-snake.svg)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💙 Thanks for visiting! Feel free to explore my repositories and reach out if you'd like to collaborate!
+
+</div>
