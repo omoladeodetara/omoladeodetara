@@ -53,6 +53,32 @@ Welcome to my GitHub profile! I'm a passionate software developer, product manag
 - **[ASH B](https://www.omoladeodetara.me/projects/ash-b)** (Jun 2021 - Aug 2022): Comprehensive healthcare platform with integrated telemedicine and patient management.
 - **[AfricaNFT Art](https://www.omoladeodetara.me/projects/africanftart)** (Jul 2021 - Dec 2021): A platform showcasing and selling digital art from African artists as NFTs.
 
+## 🤝 Open-Source Contributions
+
+Pull requests, bug reports and feature requests I've sent to projects outside my own.
+
+### Merged pull requests
+- **[AmadeusITGroup/ngrx-devtool #46](https://github.com/AmadeusITGroup/ngrx-devtool/pull/46)**: Added a recursive expand/collapse toggle to the JSON tree viewer (closes my feature request [#45](https://github.com/AmadeusITGroup/ngrx-devtool/issues/45))
+
+### Bugs I reported that maintainers fixed
+- **[Giskard-AI/giskard-oss #2859](https://github.com/Giskard-AI/giskard-oss/issues/2859)**: Anthropic structured output rejected nested object schemas during Scan input generation
+- **[pbakaus/impeccable #903](https://github.com/pbakaus/impeccable/issues/903)**: Live mode `nextCheckpointRevision()` could return an already-used revision
+- **[cloudinary-devs/skills #8](https://github.com/cloudinary-devs/skills/issues/8)**: Signed-uploads client example used GET while the server only defined POST
+- **[cloudinary-devs/skills #9](https://github.com/cloudinary-devs/skills/issues/9)**: Env var typo with a trailing underscore in the React skill
+- **[cloudinary-devs/skills #10](https://github.com/cloudinary-devs/skills/issues/10)**: Broken anchor link with a `.md` suffix
+- **[cloudinary-devs/skills #11](https://github.com/cloudinary-devs/skills/issues/11)**: Conditional watermark example was a no-op
+- **[cloudinary-devs/skills #12](https://github.com/cloudinary-devs/skills/issues/12)**: Responsive grid example needed left-to-right-safe arithmetic
+
+### Feature requests shipped
+- **[AmadeusITGroup/ngrx-devtool #41](https://github.com/AmadeusITGroup/ngrx-devtool/issues/41)**: Effect error details with message and stack trace
+
+### Open reports
+- **[Giskard-AI/giskard-docs #261](https://github.com/Giskard-AI/giskard-docs/issues/261)**: Document the separate embedding provider needed by the Anthropic quality-scan example
+- **[agentmail-to/agentmail-cli #37](https://github.com/agentmail-to/agentmail-cli/issues/37)**: Windows install fails with ENOENT for a missing `.agentmail.exe`
+- **[agentmail-to/agentmail-cli #38](https://github.com/agentmail-to/agentmail-cli/issues/38)**: Error hint uses the wrong npm package name
+- **[agentmail-to/agentmail-cli #39](https://github.com/agentmail-to/agentmail-cli/issues/39)**: `--gzip` and `--text` flags both use `-z`
+- **[AmadeusITGroup/ngrx-devtool #40](https://github.com/AmadeusITGroup/ngrx-devtool/issues/40), [#42](https://github.com/AmadeusITGroup/ngrx-devtool/issues/42), [#43](https://github.com/AmadeusITGroup/ngrx-devtool/issues/43), [#44](https://github.com/AmadeusITGroup/ngrx-devtool/issues/44)**: Live effect tracking, reducer timing, per-action performance, state size alerts
+
 ## 📺 Media & Professional Highlights
 - **[The Recommended Framework and Key Elements for Peaceful and Sustainable Lunar Activities](https://youtu.be/lVa453ivuCE?t=989)**: Presented at the Global Expert Group on Sustainable Lunar Activities (GEGSLA).
 - **[Commercial Space: Everything-as-a-Service (XaaS)](https://youtu.be/_GI3pyK9Liw)**: Exploring the paradigm of space services.
